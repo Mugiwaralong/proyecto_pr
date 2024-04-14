@@ -1,25 +1,22 @@
-# Nro de Actividad✔
+PULL_REQUEST_TEMPLATE
+# Tipo de usuario
+- [ ] Alfa
+- [ ] Bravo 
+- [ ] Charlie
+- [ ] Delta
+- [ ] Echo
 
+# Tecnología
+- [ ] HTML 
+- [ ] Json 
+- [ ] Archivo plano (.txt) 
+- [ ] Javascript 
+- [ ] Markdown / .md
 
-
-## Detalle de la actiidad, menor a 50 caracteres
-
-## Tipo de actividad
-
-
-- [ ] New feature(Agregar una funcionadad)
-- [ ] Change (Cambio de una funcionalidad)
-- [ ] Fix arreglar una funcionalidad
-- [ ] Merge  de ambientes de git
-
-# Se aplica Testing
-
-- [ ] Si
-- [ ] No
-
-#La actiadad esta estable
-- [ ] Si
-- [ ] No
-- [ ] No lo se
-
-
+# Seleccione el tipo de actividad
+- [ ] Feature
+- [ ] Changes
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
